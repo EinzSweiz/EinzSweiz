@@ -9,8 +9,19 @@
 
 - 📫 How to reach me **riad.sultanov.1999@gmail.com**
 
-- 📄 Know about my experiences [Full-Stack Developer DiplomaRoad is a web application built with Python, Django, and Django REST Framework on the backend, and Next.js with shadcn/ui Tailwind CSS on the frontend. Deployed on DigitalOcean with Nginx (SSL via Hostinger), Docker, and PostgreSQL, it features a full CRUD API for property management, user profiles, and reservations, real-time messaging, advanced search, and Stripe payment integration. Background tasks like email notifications and invoice generation are powered by Celery and Redis. I have also gained extensive experience working as a Full-Stack Developer, contributing to scalable web applications at MIB TECH Corp and Concentrix. My work included building secure APIs, implementing real-time features, containerizing applications with Docker, integrating Celery for background tasks, and deploying applications with Kubernetes and Nginx for reliable operations. Key Technologies:Python, Django, DRF Next.js, Tailwind CSS Docker, Redis, Celery Kubernetes, Nginx, PostgreSQL Stripe Integration, WebSocket](Full-Stack Developer DiplomaRoad is a web application built with Python, Django, and Django REST Framework on the backend, and Next.js with shadcn/ui Tailwind CSS on the frontend. Deployed on DigitalOcean with Nginx (SSL via Hostinger), Docker, and PostgreSQL, it features a full CRUD API for property management, user profiles, and reservations, real-time messaging, advanced search, and Stripe payment integration. Background tasks like email notifications and invoice generation are powered by Celery and Redis. I have also gained extensive experience working as a Full-Stack Developer, contributing to scalable web applications at MIB TECH Corp and Concentrix. My work included building secure APIs, implementing real-time features, containerizing applications with Docker, integrating Celery for background tasks, and deploying applications with Kubernetes and Nginx for reliable operations. Key Technologies:Python, Django, DRF Next.js, Tailwind CSS Docker, Redis, Celery Kubernetes, Nginx, PostgreSQL Stripe Integration, WebSocket)
+- 📄 Know about my experiences Full-Stack Developer
+DiplomaRoad is a feature-rich web application leveraging a Python, Django, and Django REST Framework backend, paired with a Next.js and shadcn/ui Tailwind CSS frontend. Deployed on DigitalOcean using Nginx (SSL via Hostinger), Docker, and PostgreSQL, the platform supports property management, user profiles, and reservations through a robust CRUD API. Additional capabilities include real-time messaging, advanced search, Stripe integration for payments, and background task handling via Celery and Redis.
 
+In my experience as a Full-Stack Developer, I’ve worked on scalable web solutions at MIB TECH Corp and Concentrix, focusing on secure API design, real-time feature implementation, containerization with Docker, and infrastructure deployment with Kubernetes and Nginx. These roles refined my expertise in full-stack development and deployment processes.
+
+Key Technologies:
+
+    Python, Django, DRF
+    Next.js, Tailwind CSS
+    Docker, Redis, Celery
+    Kubernetes, Nginx, PostgreSQL
+    Stripe Integration, WebSockets
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/riad-sultanov-47b030164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/riad-sultanov-47b030164" height="30" width="40" /></a>
