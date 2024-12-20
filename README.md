@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Next.js React Django DRF FastAPI**
 
-- 👨‍💻 My CV is available at [https://drive.google.com/file/d/1a7Sx-SYcYBlb8vF5ZxTieblsnjiEgXrU/view?usp=drive_link](https://drive.google.com/file/d/1a7Sx-SYcYBlb8vF5ZxTieblsnjiEgXrU/view?usp=drive_link)
-
+- 👨‍💻 My CV is available at <a href=" [https://drive.google.com/file/d/1a7Sx-SYcYBlb8vF5ZxTieblsnjiEgXrU/view?usp=drive_link](https://drive.google.com/file/d/1a7Sx-SYcYBlb8vF5ZxTieblsnjiEgXrU/view?usp=drive_link)
+" target="blank">CV</a>
 - 📫 How to reach me **riad.sultanov.1999@gmail.com**
 
 - 📄 Know about my experiences Full-Stack Developer
