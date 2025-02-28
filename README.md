@@ -11,8 +11,6 @@ I specialize in building **scalable, high-performance backend systems** using **
 - 🌱 I’m continuously **learning and improving** my skills in **FastAPI, Kafka, Domain-Driven Design (DDD), and AWS**  
 - 🎯 My expertise includes **designing scalable backend architectures**, microservices, and event-driven systems  
 - 📫 Reach me at **riad.sultanov.1999@gmail.com**  
-- 👨‍💻 My CV is available here: [View CV](https://drive.google.com/file/d/1nML9q5Ur8xGBUY_DNtvZs5fRTAEBY4xv/view?usp=sharing)
-
 ---
 
 ### 🏆 **Experience**
